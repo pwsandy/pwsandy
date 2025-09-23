@@ -19,6 +19,10 @@
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/069eb05ddc4ad649eeabc6f68e85296abb35606e/public/crocoblock.svg" height="40" alt="Crocoblock"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/refs/heads/main/public/local-wp.webp" height="40" alt="Local WP"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/5ba5fddaf74ffc5db591a88caffbc0748459fd36/public/yoast-logo.svg" height="40" alt="Yoast"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/5ba5fddaf74ffc5db591a88caffbc0748459fd36/public/ase-logo.svg" height="40" alt="ASE"  />
 </div>
 
 <h3 align="left">Tech Stacks :</h3>
