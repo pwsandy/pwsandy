@@ -16,13 +16,13 @@
   <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/a1d689c9196980eb73fedea740b090ac6be3dda2/public/acf-logo.svg" height="40" alt="ACF"  />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/069eb05ddc4ad649eeabc6f68e85296abb35606e/public/crocoblock.svg" height="40" alt="Crocoblock"  />
+  <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/8788b508912898b4a089d9cd4cbc373bf1b5bb2b/public/croco-logo-ic.svg" height="40" alt="Crocoblock"  />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/refs/heads/main/public/local-wp.webp" height="40" alt="Local WP"  />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/5ba5fddaf74ffc5db591a88caffbc0748459fd36/public/yoast-logo.svg" height="40" alt="Yoast"  />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/5ba5fddaf74ffc5db591a88caffbc0748459fd36/public/ase-logo.svg" height="40" alt="ASE"  />
+  <img src="https://github.com/pwsandy/pwsandy/blob/main/public/ase-wand.png?raw=true" height="40" alt="ASE"  />
 </div>
 
 <h3 align="left">Tech Stacks :</h3>
