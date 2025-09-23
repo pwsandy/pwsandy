@@ -1,4 +1,4 @@
-<h1 align="lef">Hi, its pwsandy</h1>
+<h1 align="lef">Hi, it's pwsandy</h1>
 
 <h3 align="lef">Tech Enthusiast. Making dope website to add value to your business.</h3>
 
@@ -15,6 +15,10 @@
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/a1d689c9196980eb73fedea740b090ac6be3dda2/public/cf-logo.svg" height="40" alt="CF"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/a1d689c9196980eb73fedea740b090ac6be3dda2/public/acf-logo.svg" height="40" alt="ACF"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/069eb05ddc4ad649eeabc6f68e85296abb35606e/public/crocoblock.svg" height="40" alt="Crocoblock"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/refs/heads/main/public/local-wp.webp" height="40" alt="Local WP"  />
 </div>
 
 <h3 align="left">Tech Stacks :</h3>
