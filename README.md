@@ -7,21 +7,21 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="Wordpress"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://bricksbuilder.io/wp-content/uploads/2023/07/bricks-logo.svg" height="40" alt="Bricks Builder"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/refs/heads/main/public/acss.jpeg" height="40" alt="ACSS"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/a1d689c9196980eb73fedea740b090ac6be3dda2/public/cf-logo.svg" height="40" alt="CF"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/a1d689c9196980eb73fedea740b090ac6be3dda2/public/acf-logo.svg" height="40" alt="ACF"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/069eb05ddc4ad649eeabc6f68e85296abb35606e/public/crocoblock.svg" height="40" alt="Crocoblock"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/refs/heads/main/public/local-wp.webp" height="40" alt="Local WP"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/5ba5fddaf74ffc5db591a88caffbc0748459fd36/public/yoast-logo.svg" height="40" alt="Yoast"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://raw.githubusercontent.com/pwsandy/pwsandy/5ba5fddaf74ffc5db591a88caffbc0748459fd36/public/ase-logo.svg" height="40" alt="ASE"  />
 </div>
 
