@@ -1,7 +1,9 @@
 <h1 align="lef">Hi, its pwsandy</h1>
 <h3 align="lef">Tech Enthusiast. Making dope website to add value to your business.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">My Favs Stack:</h3>
+
+<h3 align="left">WP Stacks :</h3>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
@@ -14,3 +16,4 @@
   <img width="12" />
   <img src="https://bricksbuilder.io/wp-content/uploads/2023/07/bricks-logo.svg" height="40" alt="react logo"  />
 </div>
+
